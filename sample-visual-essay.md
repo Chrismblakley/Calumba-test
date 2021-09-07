@@ -25,8 +25,8 @@ This article examines calumba root as a mobile scientific object in global histo
 
 _Thomas Percival_ was an English physician who denied that the "root of Mozambique" came from southeast Africa.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Thomas Percival" 
+       description="painting by ???" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/9/99/Portrait_of_T._Percival_Wellcome_M0014299.jpg">
 
